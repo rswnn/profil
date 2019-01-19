@@ -1,0 +1,120 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #eaf6f6;
+}
+hr {
+  margin: 100px auto;
+  width: 3%;
+  border: solid 5px;
+  border-style: dotted;
+  border-bottom: 0;
+  color: #e0ebe8;
+  background-color: #eaf6f6;
+}
+h3 {
+  font-family:'Comfortaa', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  margin-right: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: #008080;
+}
+p {
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+section {
+  margin: auto;
+}
+.riswan {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.header {
+  display: block;
+  top: 0;
+  left: 0;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  position: fixed;
+  width: 100%;
+  border-bottom: solid 3px darkgrey;
+  background-color: #66bfbf;
+  text-align: right;
+}
+.my {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 100px;
+}
+.tengah {
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  text-align: center;
+}
+.skill {
+  background-color: #eaf6f6;
+  width: 100%;
+  text-align: justify;
+  margin-bottom: 100px;
+  float: left;
+}
+.skill img {
+  height: 300px;
+  width: 300px;
+  margin-right: 30px;
+}
+.skill p {
+  font-size: 21px;
+  max-width: 550px;
+  width: 100%;
+}
+.skill1 {
+  float: left;
+  margin-left: 45px;
+  margin-right: 20px;
+}
+.skill2 {
+  float: left;
+  margin-left: 45px;
+  margin-right: 20px;
+}
+.skill3 {
+  float: left;
+  margin-left: 45px;
+  margin-right: 20px;
+}
+.skill4 {
+  float: left;
+  margin-left: 45px;
+  margin-right: 20px;
+}
+
+.bawah {
+  margin-top: -50px;
+  margin-bottom: 50px;
+  line-height: 50px;
+  width: 100%;
+}
+.link {
+  display: inline-block;
+  margin: 70px 50px 45px 50px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  border: solid 3px;
+  border-radius: 100%;
+  background-color: #e0ebe8;
+  color: #008080;
+}
+.footer {
+  color: #eaf6f6;
+  padding: 20px;
+  background-color: #66bfbf;
+  border-top: solid 3px #e0ebe8;
+}
